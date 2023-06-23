@@ -12,11 +12,11 @@ Create an alarm clock. Use ONLY vanilla javascript, no libraries or frameworks a
 
 * **Set Alarm**
 
---  Provide input boxes to set an alarm (hr,min,sec, am/pm)
+   --  Provide input boxes to set an alarm (hr,min,sec, am/pm)
 
--- Once the sets the time and click “Set Alarm” button, add that alarm to the alarms list below
+   -- Once the sets the time and click “Set Alarm” button, add that alarm to the alarms list below
 
--- When the alarm goes of just use JS alert function to alert in the browser
+   -- When the alarm goes of just use JS alert function to alert in the browser
 
 * **Alarms list**
 
